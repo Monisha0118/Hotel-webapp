@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /index5.html/about.html/rooms.html/catering.html/contact.html/Images
+  - source: /index.html
     destination: /var/www/html/
 hooks:
   BeforeInstall:
